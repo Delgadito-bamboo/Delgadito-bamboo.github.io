@@ -4,9 +4,9 @@
 
 
 ## Profile
--　arara
--　Tokyo
--【開発スキル】
+- arara
+- Tokyo
+- 【開発スキル】
 　　フロントエンド:React
 　　バックエンド: nodeJS(Express)
--  デザイン/尺八
+- デザイン/尺八
